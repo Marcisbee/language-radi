@@ -1,13 +1,13 @@
 {
   "name": "language-radi",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Radi language for atom",
   "keywords": [
     "language",
     "grammar"
   ],
   "main": "./src/main.js",
-  "repository": "https://github.com/atom/language-radi",
+  "repository": "https://github.com/Marcisbee/language-radi",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
